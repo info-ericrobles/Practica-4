@@ -1,0 +1,32 @@
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\bin\Debug\net5.0\Ejercicio5 - falta.exe
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\bin\Debug\net5.0\Ejercicio5 - falta.deps.json
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\bin\Debug\net5.0\Ejercicio5 - falta.runtimeconfig.json
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\bin\Debug\net5.0\Ejercicio5 - falta.runtimeconfig.dev.json
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\bin\Debug\net5.0\Ejercicio5 - falta.dll
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\bin\Debug\net5.0\ref\Ejercicio5 - falta.dll
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\bin\Debug\net5.0\Ejercicio5 - falta.pdb
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\obj\Debug\net5.0\Ejercicio5 - falta.csprojAssemblyReference.cache
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\obj\Debug\net5.0\Ejercicio5 - falta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\obj\Debug\net5.0\Ejercicio5 - falta.AssemblyInfoInputs.cache
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\obj\Debug\net5.0\Ejercicio5 - falta.AssemblyInfo.cs
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\obj\Debug\net5.0\Ejercicio5 - falta.csproj.CoreCompileInputs.cache
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\obj\Debug\net5.0\Ejercicio5 - falta.dll
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\obj\Debug\net5.0\ref\Ejercicio5 - falta.dll
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\obj\Debug\net5.0\Ejercicio5 - falta.pdb
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5 - falta\obj\Debug\net5.0\Ejercicio5 - falta.genruntimeconfig.cache
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\bin\Debug\net5.0\Ejercicio5 - falta.exe
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\bin\Debug\net5.0\Ejercicio5 - falta.deps.json
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\bin\Debug\net5.0\Ejercicio5 - falta.runtimeconfig.json
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\bin\Debug\net5.0\Ejercicio5 - falta.runtimeconfig.dev.json
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\bin\Debug\net5.0\Ejercicio5 - falta.dll
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\bin\Debug\net5.0\ref\Ejercicio5 - falta.dll
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\bin\Debug\net5.0\Ejercicio5 - falta.pdb
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\obj\Debug\net5.0\Ejercicio5 - falta.csprojAssemblyReference.cache
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\obj\Debug\net5.0\Ejercicio5 - falta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\obj\Debug\net5.0\Ejercicio5 - falta.AssemblyInfoInputs.cache
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\obj\Debug\net5.0\Ejercicio5 - falta.AssemblyInfo.cs
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\obj\Debug\net5.0\Ejercicio5 - falta.csproj.CoreCompileInputs.cache
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\obj\Debug\net5.0\Ejercicio5 - falta.dll
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\obj\Debug\net5.0\ref\Ejercicio5 - falta.dll
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\obj\Debug\net5.0\Ejercicio5 - falta.pdb
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica4\Ejercicio5\obj\Debug\net5.0\Ejercicio5 - falta.genruntimeconfig.cache
